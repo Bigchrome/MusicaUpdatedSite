@@ -20,7 +20,9 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+.subsection {
+color: grey;
+}
 .topnav {
     font-size: 14px; 
 }
@@ -37,6 +39,20 @@ h6 {
     color: #f8f8f8;
     background: url(../img/dancing-dance-girls.jpg) no-repeat center center;
     background-size: cover;
+}
+#about-intro{
+	background: #c7c7c7;
+	padding-top: 0px;
+	border-top: 0px;
+}
+
+#contact-page-banner{
+	background: #c7c7c7;
+}
+#app-header{
+	background-image: url(../img/MusicaDemoSplashtestFixed.png);
+	border-bottom: 50px;
+	padding-top: 500px;
 }
 
 .intro-message {
